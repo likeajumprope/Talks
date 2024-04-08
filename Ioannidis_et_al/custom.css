@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+.reveal section p {
+    font-size: 30px !important;
+    text-align: left !important;
+    color: black !important;
+    }
+
+ .reveal ul {
+    font-size: 25px !important;
+    text-align: left !important;
+    }
+
+.mylist ul {
+  font-size: 25px !important;
+  text-align: left !important;
+  display: block !important;
+ }
+
+/*-- scss:rules --*/
